@@ -537,7 +537,7 @@
 * **Fun Fact:** awas ya
 
 ### [49] 264311049 - Muhammad Mahlayan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049 - Muhammad Mahlayan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311049 - MUHAMMAD MAHLAYAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Mahlayan
 * **NIM:** 264311049
 * **TTL:** Magetan 1 januari 2007
@@ -559,7 +559,7 @@
 * **Fun Fact:** Gabut dikit
 
 ### [51] 264311051 - Nazhwa Al Karana Putri
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Al Karana Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311051 - NAZHWA AL KARANA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
 * **TTL:** NGAWI, 28 Desember 2008
@@ -592,7 +592,7 @@
 * **Fun Fact:** suka ngopi
 
 ### [54] 264311054 - Panji Yuwono Wijoyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054 - Panji Yuwono Wijoyo.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311054 - PANJI YUWONO WIJOYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Panji Yuwono Wijoyo
 * **NIM:** 264311054
 * **TTL:** MADIUN, 22 FEBRUARI 2008
@@ -625,7 +625,7 @@
 * **Fun Fact:** FANS KING EMYU
 
 ### [57] 264311057 - Roefando Adji Ramadhan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - Roefando Adji Ramadhan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311057 - ROEFANDO ADJI RAMADHAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan
 * **NIM:** 264311057
 * **TTL:** JAKARTA, 10 OKTOBER 2007
@@ -684,7 +684,7 @@
 * **Fun Fact:** Suka hal hal simpel
 
 ### [62] 264311062 - AZZAM FAUZY
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062 - AZZAM FAUZY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311062 -  AZZAM FAUZY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AZZAM FAUZY
 * **NIM:** 264311062
 * **TTL:** MAGETAN, 24 JANUARI 2008
@@ -695,7 +695,7 @@
 * **Fun Fact:** baik hati
 
 ### [63] 264311063 - BILQIS AUDYNOVA PRASANTY
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063 - BILQIS AUDYNOVA PRASANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311063 -  BILQIS AUDYNOVA PRASANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BILQIS AUDYNOVA PRASANTY
 * **NIM:** 264311063
 * **TTL:** KOTA MADIUN, 14 NOVEMBER 2007
@@ -717,7 +717,7 @@
 * **Fun Fact:** Suka wanginya stela jeruk
 
 ### [65] 264311065 - CORNELIA NASYWA PUJI AGUSTIN
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311065 - CORNELIA NASYWA PUJI AGUSTIN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311065 -  CORNELIA NASYWA PUJI AGUSTIN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** CORNELIA NASYWA PUJI AGUSTIN
 * **NIM:** 264311065
 * **TTL:** MAGETAN, 28 APRIL 2007
@@ -728,7 +728,7 @@
 * **Fun Fact:** CINTA MATI UB
 
 ### [66] 264311066 - DWI RISKI NUGROHO
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066 - DWI RISKI NUGROHO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311066 - DWI RISKI NUGROHO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DWI RISKI NUGROHO
 * **NIM:** 264311066
 * **TTL:** PONOROGO, 22 APRIL 2007
@@ -739,7 +739,7 @@
 * **Fun Fact:** GAME & RUNNING
 
 ### [67] 264311067 - ELAN GHIYATH ABHIMANYU
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311067 - ELAN GHIYATH ABHIMANYU.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311067 -  ELAN GHIYATH ABHIMANYU.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ELAN GHIYATH ABHIMANYU
 * **NIM:** 264311067
 * **TTL:** KLATEN, 29 MARET 2008
@@ -772,7 +772,7 @@
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
 ### [70] 264311070 - IKHZANIERO ARDYANA JUNIAR
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070 - IKHZANIERO ARDYANA JUNIAR.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311070 -  IKHZANIERO ARDYANA JUNIAR.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** IKHZANIERO ARDYANA JUNIAR
 * **NIM:** 264311070
 * **TTL:** MAGETAN, 07 JUNI 2007
@@ -816,7 +816,7 @@
 * **Fun Fact:** Game garis keras
 
 ### [74] 264311074 - MAR'ATUS SOFIANA AZKIYA
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311074 - MAR'ATUS SOFIANA AZKIYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311074 -  MAR'ATUS SOFIANA AZKIYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MAR'ATUS SOFIANA AZKIYA
 * **NIM:** 264311074
 * **TTL:** PONOROGO, 18 JANUARI 2008
@@ -838,7 +838,7 @@
 * **Fun Fact:** ASLINYA RAMAH
 
 ### [76] 264311076 - MUHAMMAD ANDY DWI SUBANDI
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076 - MUHAMMAD ANDY DWI SUBANDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311076 -  MUHAMMAD ANDY DWI SUBANDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD ANDY DWI SUBANDI
 * **NIM:** 264311076
 * **TTL:** PONOROGO, 7 MARET 2007
@@ -860,7 +860,7 @@
 * **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
 ### [78] 264311078 - MUTYA YUWAN RAMADAHNI
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078 - MUTYA YUWAN RAMADAHNI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311078 -  MUTYA YUWAN RAMADAHNI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUTYA YUWAN RAMADAHNI
 * **NIM:** 264311078
 * **TTL:** PONOROGO, 6 OKTOBER 2007
@@ -882,7 +882,7 @@
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
 ### [80] 264311080 - NOVA
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080 - NOVA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311080 -  NOVA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NOVA
 * **NIM:** 264311080
 * **TTL:** BOJONEGORO, 3 NOVEMBER 2007
