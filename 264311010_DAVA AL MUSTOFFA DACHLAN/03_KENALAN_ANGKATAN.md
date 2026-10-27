@@ -291,7 +291,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### [27] 264311027 - REZA SURYA KURNIAWAN
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027 - REZA SURYA KURNIAWAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311027 - REZA SURYA KURNIAWAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** REZA SURYA KURNIAWAN
 * **NIM:** 264311027
 * **TTL:** Magetan, 28 Maret 2007
