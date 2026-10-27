@@ -93,7 +93,7 @@
 * **Fun Fact:** TIDAK ADA
 
 ### [09] 264311009 - BRAMANTA SETYA BAGASKARA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009 - BRAMANTA SETYA BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311009 - BRAMANTA SETYA BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BRAMANTA SETYA BAGASKARA
 * **NIM:** 264311009
 * **TTL:** MALANG, 24 NOVEMBER 2007
@@ -104,7 +104,7 @@
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
 ### [10] 264311010 - DAVA AL MUSTOFFA DACHLAN
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010 - DAVA AL MUSTOFFA DACHLAN.JPEg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311010 - DAVA AL MUSTOFFA DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
 * **NIM:** 264311010
 * **TTL:** MAGETAN, 17 MARET 2007
@@ -126,7 +126,7 @@
 * **Fun Fact:** RACING ABIEZ
 
 ### [12] 264311012 - DIMAS PRAMODYA BAGASKARA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012 - DIMAS PRAMODYA BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311012 -  DIMAS PRAMODYA BAGASKARA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DIMAS PRAMODYA BAGASKARA
 * **NIM:** 264311012
 * **TTL:** PONOROGO, 05 MEI 2008
@@ -181,7 +181,7 @@
 * **Fun Fact:** cinta kecap
 
 ### [17] 264311017 - JELITA PALUPI KUSUMA WARDANI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017 - JELITA PALUPI KUSUMA WARDANI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311017 - JELITA PALUPI KUSUMA WARDANI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** JELITA PALUPI KUSUMA WARDANI
 * **NIM:** 264311017
 * **TTL:** SIDOARJO, 17 MARET 2008
@@ -203,7 +203,7 @@
 * **Fun Fact:** suka lagu LANA DEL REY
 
 ### [19] 264311019 - KHANSA QAIS FERNANDA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019 - KHANSA QAIS FERNANDA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311019 - KHANSA QAIS FERNANDA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KHANSA QAIS FERNANDA
 * **NIM:** 264311019
 * **TTL:** MADIUN,21 FEBRUARI 2008
@@ -214,7 +214,7 @@
 * **Fun Fact:** suka main gitar
 
 ### [20] 264311020 - MAHIJA PARAMA URDHA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - MAHIJA PARAMA URDHA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311020 -  MAHIJA PARAMA URDHA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MAHIJA PARAMA URDHA
 * **NIM:** 264311020
 * **TTL:** PONOROGO, 11 JANUARI 2008
@@ -236,7 +236,7 @@
 * **Fun Fact:** dipanggil nengok
 
 ### [22] 264311022 - NAILA AZAHRA FITRI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022 - NAILA AZAHRA FITRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311022 - NAILA AZAHRA FITRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAILA AZAHRA FITRI
 * **NIM:** 264311022
 * **TTL:** BOJONEGORO, 10 OKTOBER 2008
@@ -247,7 +247,7 @@
 * **Fun Fact:** wallahualam😊🩵
 
 ### [23] 264311023 - NASHWA NADIA NURLATIFA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023 - NASHWA NADIA NURLATIFA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311023 - NASHWA NADIA NURLATIFA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NASHWA NADIA NURLATIFA
 * **NIM:** 264311023
 * **TTL:** BOJONEGORO, 31 MARET 2008
@@ -258,7 +258,7 @@
 * **Fun Fact:** lagi rewatch marvel
 
 ### [24] 264311024 - NGAZIMATUL KHUSNA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL KHUSNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311024 - NGAZIMATUL KHUSNA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NGAZIMATUL KHUSNA
 * **NIM:** 264311024
 * **TTL:** NGAWI, 12 JULI 2007
