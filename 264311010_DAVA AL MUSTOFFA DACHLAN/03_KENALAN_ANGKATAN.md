@@ -82,7 +82,7 @@
 * **Fun Fact:** love matcha dan capybara💚🤎
 
 ### [08] 264311008 - BERTHA SAMPOERNA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008 - BERTHA SAMPOERNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311008 - BERTHA SAMPOERNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BERTHA SAMPOERNA
 * **NIM:** 264311008
 * **TTL:** NGAWI, 29 JANUARI 2008
@@ -350,7 +350,7 @@
 * **Fun Fact:** tidak kuat dengan makanan pedas
 
 ### [32] 264311032 - AHMAD RAISYA AL IQSAN
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032 - AHMAD RAISYA AL IQSAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311032 -  AHMAD RAISYA AL IQSAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD RAISYA AL IQSAN
 * **NIM:** 264311032
 * **TTL:** PONOROGO, 27 NOVEMBER 2007
@@ -372,7 +372,7 @@
 * **Fun Fact:** Gmpang tidur
 
 ### [34] 264311034 - ALEXSANDRIA CAHAYA ADZANI
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311034 - ALEXSANDRIA CAHAYA ADZANI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311034 - ALEXSANDRIA CAHAYA ADZANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ALEXSANDRIA CAHAYA ADZANI
 * **NIM:** 264311034
 * **TTL:** MADIUN, 20 JULI 2007
@@ -427,7 +427,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### [39] 264311039 - DEWI WASILATUL KHOIRIYAH
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039 - DEWI WASILATUL KHOIRIYAH.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311039 -  DEWI WASILATUL KHOIRIYAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH
 * **NIM:** 264311039
 * **TTL:** SIDOARJO, 21 NOVEMBER 2007
@@ -471,7 +471,7 @@
 * **Fun Fact:** -
 
 ### [43] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
 * **NIM:** 264311043
 * **TTL:** PONOROGO, 25 OKTOBER 2007
@@ -706,7 +706,7 @@
 * **Fun Fact:** JAGO NULIS TANGAN KIRI
 
 ### [64] 264311064 - CINDIKA ZAHIRA THITANIA PUTRI
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064 - CINDIKA ZAHIRA THITANIA PUTRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311064 -  CINDIKA ZAHIRA THITANIA PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** CINDIKA ZAHIRA THITANIA PUTRI
 * **NIM:** 264311064
 * **TTL:** KOTA MADIUN, 23 FEBRUARI 2008
@@ -948,7 +948,7 @@
 * **Fun Fact:** Memelihara Kambing
 
 ### [86] 264311087 - YAYA WINDA SALMA
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087 - YAYA WINDA SALMA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1C\264311087 - YAYA WINDA SALMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** YAYA WINDA SALMA
 * **NIM:** 264311087
 * **TTL:** MAGETAN, 28 DESEMBER 2007
