@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] 264311001 - ADHINIA ALKURRATU AINNI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001 - ADHINIA ALKURRATU AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311001 -  ADHINIA ALKURRATU AINNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADHINIA ALKURRATU AINNI
 * **NIM:** 264311001
 * **TTL:** MADIUN, 11 DESEMBER 2007
@@ -49,7 +49,7 @@
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
 ### [05] 264311005 - ANIS ALI SOHIB
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS ALI SOHIB.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311005 - ANIS ALI SOHIB.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANIS ALI SOHIB
 * **NIM:** 264311005
 * **TTL:** MAGETAN, 26 MARET 2008
@@ -148,7 +148,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### [14] 264311014 - ELVAN SYAHPUTRA IDHAM
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014 - ELVAN SYAHPUTRA IDHAM.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311014 - ELVAN SYAHPUTRA IDHAM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
 * **NIM:** 264311014
 * **TTL:** MADIUN, 08 MARET 2008
@@ -170,7 +170,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### [16] 264311016 - FATIKHA ARTEMISIA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016 - FATIKHA ARTEMISIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311016 - FATIKHA ARTEMISIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FATIKHA ARTEMISIA
 * **NIM:** 264311016
 * **TTL:** MAGETAN, 16 DESEMBER 2007
@@ -192,7 +192,7 @@
 * **Fun Fact:** SUKA BUBUDUDU
 
 ### [18] 264311018 - JULIAN RAKA NUGRAHA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018 - JULIAN RAKA NUGRAHA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311018 - JULIAN RAKA NUGRAHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** JULIAN RAKA NUGRAHA
 * **NIM:** 264311018
 * **TTL:** PONOROGO, 28 JULI 2008
@@ -225,7 +225,7 @@
 * **Fun Fact:** baik
 
 ### [21] 264311021 - MUHAMMAD RIDWAN NAZIM
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021 - MUHAMMAD RIDWAN NAZIM.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311021 - MUHAMMAD RIDWAN NAZIM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
 * **NIM:** 264311021
 * **TTL:** JAKARTA, 25 MEI 2007
@@ -313,7 +313,7 @@
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
 ### [29] 264311029 - RIFQI ADYASTA MAHARDIKA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029 - RIFQI ADYASTA MAHARDIKA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311029 - RIFQI ADYASTA MAHARDIKA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RIFQI ADYASTA MAHARDIKA
 * **NIM:** 264311029
 * **TTL:** BOJONEGORO, 19 SEPTEMBER 2008
