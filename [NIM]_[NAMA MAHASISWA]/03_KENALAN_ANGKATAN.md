@@ -383,7 +383,7 @@
 * **Fun Fact:** wi wok de tok
 
 ### 5. 264311035 - ANISA LATIFATUL ROHMA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035 - ANISA LATIFATUL ROHMA.all" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035 - ANISA LATIFATUL ROHMA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANISA LATIFATUL ROHMA
 * **NIM:** 264311035
 * **TTL:** KOTA MADIUN, 20 MARET 2007
