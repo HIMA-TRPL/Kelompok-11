@@ -8,7 +8,6 @@
 * **Nama Kelompok:** SVELTE
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** SMKN TAKERAN
-* **Fun Fact:** DOLAN TEROS
+* **Fun Fact:** MASA MUDA WAJIB HEALING
 
 ---
-
