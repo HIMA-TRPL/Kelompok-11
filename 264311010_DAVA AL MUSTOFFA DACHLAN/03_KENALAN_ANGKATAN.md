@@ -614,7 +614,7 @@
 * **Fun Fact:** gk suka makan pedes
 
 ### [56] 264311056 - RESTU PRAYOGA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYOGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311056 - RESTU PRAYOGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
 * **TTL:** PONOROGO, 19 JANUARI 2008
@@ -636,7 +636,7 @@
 * **Fun Fact:** pecandu kopi akut
 
 ### [58] 264311058 - Sakhiya Azam Khoirunni'am
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058 - Sakhiya Azam Khoirunni'am.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1B\264311058 - SAKHIYA AZAM KHOIRUNNI'AM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sakhiya Azam Khoirunni'am
 * **NIM:** 264311058
 * **TTL:** PONOROGO, 06 APRIL 2007
