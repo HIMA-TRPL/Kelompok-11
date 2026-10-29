@@ -525,9 +525,9 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN
 * **Fun Fact:** awas ya ITS tahun depan
 
-### 19. 264311049 - Muhammad Mahlayan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049 - Muhammad Mahlayan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Muhammad Mahlayan
+### 19. 264311049 - MUHAMMAD MAHLAYAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049 - MUHAMMAD MAHLAYAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MUHAMMAD MAHLAYAN
 * **NIM:** 264311049
 * **TTL:** Magetan 1 januari 2007
 * **Nomer Handphone:** 081994311889
@@ -547,9 +547,9 @@
 * **Asal Sekolah:** sman 1 kedunggalar
 * **Fun Fact:** Gabut pengen ngopi
 
-### 21. 264311051 - Nazhwa Al Karana Putri
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Al Karana Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Nazhwa Al Karana Putri
+### 21. 264311051 - NAZHWA AL KARANA PUTRI
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - NAZHWA AL KARANA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAZHWA AL KARANA PUTRI
 * **NIM:** 264311051
 * **TTL:** NGAWI, 28 Desember 2008
 * **Nomer Handphone:** 088226071910
