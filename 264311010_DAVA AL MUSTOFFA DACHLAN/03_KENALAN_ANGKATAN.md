@@ -324,7 +324,7 @@
 * **Fun Fact:** pengen jago vibe coding
 
 ### [30] 264311030 - ZAHRO CHOIRUN LATIFAH
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030 - ZAHRO CHOIRUN LATIFAH.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311030 -  ZAHRO CHOIRUN LATIFAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ZAHRO CHOIRUN LATIFAH
 * **NIM:** 264311030
 * **TTL:** MADIUN, 15 MEI 2007
