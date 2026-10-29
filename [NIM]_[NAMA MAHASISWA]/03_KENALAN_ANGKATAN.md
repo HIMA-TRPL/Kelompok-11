@@ -337,7 +337,7 @@
 ---
 
 ### 31 264311031 - Ahmad Mujadid Musyafi'i
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/031_JADID.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/1B/031_JADID.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ahmad Mujadid Musyafi'i
 * **NIM:** 264311031
 * **TTL:** Magetan, 9 Desember 2007
@@ -524,7 +524,7 @@
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### 48 264311048 - Muhammad Amirul Hafidz
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/1B/048_HAFIZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz
 * **NIM:** 264311048
 * **TTL:** Ponorogo, 06 April 2007
