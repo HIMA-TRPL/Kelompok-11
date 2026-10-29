@@ -112,7 +112,7 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara S.
 * **Jabatan:** staff
-* **TTL:** [TTL]
+* **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
 * **Asal Daerah:** Madiun
