@@ -580,9 +580,9 @@
 * **Asal Sekolah:** SMAN 1 Nglames
 * **Fun Fact:** suka ngopi
 
-### 24. 264311054 - Panji Yuwono Wijoyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054 - Panji Yuwono Wijoyo.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Panji Yuwono Wijoyo
+### 24. 264311054 - PANJI YUWONO WIJOYO
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054 - PANJI YUWONO WIJOYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** PANJI YUWONO WIJOYO
 * **NIM:** 264311054
 * **TTL:** MADIUN, 22 FEBRUARI 2008
 * **Nomer Handphone:** 085724871983
@@ -613,9 +613,9 @@
 * **Asal Sekolah:** SMKN1 JENANGAN PONOROGO
 * **Fun Fact:** FANS KING EMYU
 
-### 27. 264311057 - Roefando Adji Ramadhan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - Roefando Adji Ramadhan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Roefando Adji Ramadhan
+### 27. 264311057 - ROEFANDO ADJI RAMADHAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - ROEFANDO ADJI RAMADHAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ROEFANDO ADJI RAMADHAN
 * **NIM:** 264311057
 * **TTL:** JAKARTA, 10 OKTOBER 2007
 * **Nomer Handphone:** 082334666708
@@ -624,9 +624,9 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** pecandu kopi akut
 
-### 28. 264311058 - Sakhiya Azam Khoirunni'am
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058 - Sakhiya Azam Khoirunni'am.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Sakhiya Azam Khoirunni'am
+### 28. 264311058 - SAKHIYA AZAM KHOIRUNNI'AM
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058 - SAKHIYA AZAM KHOIRUNNI'AM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** SAKHIYA AZAM KHOIRUNNI'AM
 * **NIM:** 264311058
 * **TTL:** PONOROGO, 06 APRIL 2007
 * **Nomer Handphone:** 083139897766
