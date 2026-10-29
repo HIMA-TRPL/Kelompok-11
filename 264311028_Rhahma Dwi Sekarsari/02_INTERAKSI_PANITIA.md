@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [ Muhammad Adam Al-Kidri]
-*  <img src="assets/PANITIA/BPH/BPH-Muhammad_Adam_Al-Kidri.jpeg" alt="Description" style="object-fit:cover" width="300px"
+*  <img src="assets/PANITIA/BPH/BPH-Muhammad_Adam_Al-Kidri.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Muhammad_Adam_Al-Kidri]
 * **Jabatan:** [Wakil_Ketua]
 * **TTL:** [Magetan_08September_2005]
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [Fathur Roshin Haddinanta]
-*  <img src="assets/PANITIA/BPH/BPH-Fathur_Roshin_Haddinanta.jpeg" alt="Description" style="object-fit:cover" width="300px"
+*  <img src="assets/PANITIA/BPH/BPH-Fathur_Roshin_Haddinanta.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Fathur_Roshin_Haddinanta]
 * **Jabatan:** [Sekre_1]
 * **TTL:** [Tulungagung_21September_2005]
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [Naila Zahra Yasmine]
-*  <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px"
+*  <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Naila_Zahra_Yasmine]
 * **Jabatan:** [Sekretaris_2]
 * **TTL:** [Madiun_09Oktober_2006]
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - [Alivia Rizka Wardani]
-* <img src="assets/PANITIA/BPH/BPH-Alivia_Rizka_Wardani.jpeg" alt="Description" style="object-fit:cover" width="300px"
+* <img src="assets/PANITIA/BPH/BPH-Alivia_Rizka_Wardani.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Alivia_Rizka_Wardani]
 * **Jabatan:** [Bendahara_1]
 * **TTL:** [Ngawi_12September_2007]
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [Dhea Novika]
-*  <img src="assets/PANITIA/BPH/BPH-Dhea_Novika.jpeg" alt="Description" style="object-fit:cover" width="300px"
+*  <img src="assets/PANITIA/BPH/BPH-Dhea_Novika.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Dhea_Novika]
 * **Jabatan:** [Bendahara_2]
 * **TTL:** [Madiun_13November_2006]
@@ -204,7 +204,7 @@
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] Sosma - [Muhsyam Fahriel S.]
-*<img src="assets/PANITIA/Sosma/Sosma-Muhsyam_Fahriel_S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"
+*<img src="assets/PANITIA/Sosma/Sosma-Muhsyam_Fahriel_S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhsyam_Fahriel_S.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Ngawi,25September_2005]
@@ -214,7 +214,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] Sosma - [Edwin Nur Cahyo]
-*<img src="assets/PANITIA/Sosma/Sosma-Anggi_Wahyu_Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"
+*<img src="assets/PANITIA/Sosma/Sosma-Anggi_Wahyu_Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Edwin_Nur_Cahyo]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,01November_2007]
@@ -224,7 +224,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] Sosma - [Lutfilah Ahmad]
-*<img src="assets/PANITIA/Sosma/Sosma-Lutfilah_Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"
+*<img src="assets/PANITIA/Sosma/Sosma-Lutfilah_Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Lutfilah_Ahmad]
 * **Jabatan:** [Staff]
 * **TTL:** [Magetan,30Januari_2007]
