@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - Alvian Dwiky Putra S
-* <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\Dagri\Dagri - Alvian Dwiky Putra S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra S
 * **Jabatan:** Koor Dagri
 * **TTL:** Ponorogo, 2 Desember 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - Muhammad Raufa Hafid W.
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Muhammad Raufa Hafid W..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid W.
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 26 September 2005
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\PSDM\PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** PSDM
 * **TTL:** [TTL]
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\PSDM\PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Staff
 * **TTL:** [TTL]
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\Sosma\Sosma - Muhsyam Fahriel.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
@@ -359,7 +359,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\DKM\DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** koordinator
 * **TTL:** [TTL]
@@ -462,8 +462,8 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Anjuni
-* <img src="assets/PANITIA/Volunteer/Volunteer - Anjuni.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [44] Volunteer - Ervindy Anjuni Nurmasari
+* <img src="assets\PANITIA\Volunteer\Voluteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anjuni
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
@@ -482,6 +482,15 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang
+* **Jabatan:** volunteer
+* **TTL:** tenggarong, 19 februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** kalimantan timur
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ---
