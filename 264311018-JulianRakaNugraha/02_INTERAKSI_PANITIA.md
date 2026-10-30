@@ -81,7 +81,7 @@
 ### [08] Dagri - Dzakwan Daris Fakhruddin
 * <img src="assets\PANITIA\Dagri\Dagri - Dzakwan Daris Fakhruddin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
-* **Jabatan:** staff
+* **Jabatan:** anggota
 * **TTL:** Madiun, 13 April 2006
 * **Nomer Handphone:** 085163200636
 * **Username GitHub:** @dzadafa
@@ -91,7 +91,7 @@
 ### [09] Dagri - Firdaus Ilham F.
 * <img src="assets\PANITIA\Dagri\Dagri - Firdaus Ilham F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
-* **Jabatan:** staff
+* **Jabatan:** anggota
 * **TTL:** Madiun, 01 Januari 2007
 * **Nomer Handphone:** 081977285545
 * **Username GitHub:** @fadlukkr
@@ -101,7 +101,7 @@
 ### [10] Dagri - Bangkit Cahya Linuwih
 * <img src="assets\PANITIA\Dagri\Dagri - Bangkit Cahya Linuwih.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
-* **Jabatan:** staff
+* **Jabatan:** anggota
 * **TTL:** Pacitan 02, April, 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
@@ -111,7 +111,7 @@
 ### [11] Dagri - Nadia Tifara S.
 * <img src="assets\PANITIA\Dagri\Dagri - Nadia Tifara S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara S.
-* **Jabatan:** staff
+* **Jabatan:** anggota
 * **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
