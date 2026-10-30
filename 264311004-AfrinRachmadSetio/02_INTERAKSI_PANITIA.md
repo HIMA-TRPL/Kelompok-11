@@ -240,10 +240,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_23]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Rejosari,Sawahan,Madiun
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -372,10 +372,10 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** Koordinator
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_35]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Ponorogo, 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannmlnaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Jimli Dwi Assiddiqi
@@ -492,14 +492,14 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
-### [47] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang Surya Prasetyo
+### [47] Volunteer - Galang
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang
 * **Jabatan:** Volunteer
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_47]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Tenggarong, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 47 wajib ditargetkan pada baris komentar ini -->
 
 ---
