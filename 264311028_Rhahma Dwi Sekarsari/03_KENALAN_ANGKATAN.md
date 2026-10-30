@@ -301,16 +301,6 @@
 * **Asal Sekolah:** [MAN_2_KOTAMADIUN]
 * **Fun Fact:** [Suka_kopag]
 
-### [28] [264311028] -[RHAHMA DWI SEKARSARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028-RHAHMA_DWI_SEKARSARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [RHAHMA_DWI_SEKARSARI]
-* **NIM:** [264311028]
-* **TTL:** [NGANJUK_31JULI_2008]
-* **Nomer Handphone:** [085852424110]
-* **Nama Kelompok:** [SVELTE]
-* **Asal Daerah:** [NGANJUK]
-* **Asal Sekolah:** [SMKN_1_LENGKONG]
-* **Fun Fact:** [MINUMTEH_GABISATIDUR]
 
 ### [29] [264311029] -[RIFQI ADYASTA MAHARDIKA ]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029-RIFQI_ADYASTA_MAHARDIKA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
