@@ -103,17 +103,6 @@
 * **Asal Sekolah:** SMKN 1 KEPANJEN
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
-### [10] 264311010 - DAVA AL MUSTOFFA DACHLAN
-* <img src="assets\MAHASISWA_BARU\Kelas_1A\264311010 - DAVA AL MUSTOFFA DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
-* **NIM:** 264311010
-* **TTL:** MAGETAN, 17 MARET 2007
-* **Nomer Handphone:** 087840888211
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** MADIUN
-* **Asal Sekolah:** SMAN 1 GEGER
-* **Fun Fact:** Cool
-
 ### [11] 264311011 - DHAFIN HASYA ZAKI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011 - DHAFIN HASYA ZAKI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DHAFIN HASYA ZAKI
