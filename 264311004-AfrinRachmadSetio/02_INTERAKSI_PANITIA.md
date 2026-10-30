@@ -210,10 +210,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** PSDM
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_20]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111276
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Abdul Aziz Mushthofa
@@ -401,7 +401,7 @@
 ### [38] DKM - Sekar Purwita Asri
 * <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Sekar Purwita Asri
-* **Jabatan:** Anggota DKM
+* **Jabatan:** Anggota 
 * **TTL:** Magetan, 15 Juli 2006
 * **Nomer Handphone:** 082337003554
 * **Username GitHub:** @sekarpurwita35015-lab
@@ -411,7 +411,7 @@
 ### [39] DKM - Silfina Nur Fadilah
 * <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
-* **Jabatan:** Anggota DKM
+* **Jabatan:** Anggota 
 * **TTL:** Magetan, 02 Oktober 2006
 * **Nomer Handphone:** 085731510557
 * **Username GitHub:** @silfinanurfadilah
