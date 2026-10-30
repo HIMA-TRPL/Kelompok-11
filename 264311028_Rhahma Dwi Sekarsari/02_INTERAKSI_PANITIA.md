@@ -214,7 +214,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] Sosma - [Edwin Nur Cahyo]
-*<img src="assets/PANITIA/Sosma/Sosma-Anggi_Wahyu_Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/Sosma/Sosma-Edwin_Nur_Cahyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Edwin_Nur_Cahyo]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,01November_2007]
