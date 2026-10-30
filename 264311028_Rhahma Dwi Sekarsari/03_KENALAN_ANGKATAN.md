@@ -603,7 +603,7 @@
 * **Fun Fact:** ["Hei!!Antek-Antek_Feodalis🫵!!!"]
 
 ### [25] [264311055] - [Raizzan Ulayya Taqqi]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055-Raizzan_Ulayya_Taqqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055-RAIZZAN_ULAYYA_TAQQI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [Raizzan_Ulayya_Taqqi]
 * **NIM:** [264311055]
 * **TTL:** [NGAWI_01OKTOBER_2007]
