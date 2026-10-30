@@ -133,7 +133,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [13] Humas - Adam Noverian
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Adam Noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Adam Noverian
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
