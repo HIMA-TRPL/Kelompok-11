@@ -398,7 +398,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] Humas - [Atha Aryasatya]
-* <img src="assets/PANITIA/Humas/Humas-Atha_Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas-Atha_Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,22Februari_2005]
