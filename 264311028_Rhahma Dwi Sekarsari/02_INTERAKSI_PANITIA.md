@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [Naila Zahra Yasmine]
-*  <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px">
+*  <img src="assets/PANITIA/BPH/BPH-ila_Zahra_Yasmine.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Naila_Zahra_Yasmine]
 * **Jabatan:** [Sekretaris_2]
 * **TTL:** [Madiun_09Oktober_2006]
@@ -141,8 +141,8 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM-Riyan_Zakaria_Zulkarnain.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
+* <img src="assets/PANITIA/PSDM/PSDM/Rindy_Cantika_Agustina_P.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Rindy_Cantika_Agustina_P]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madium,31_Agustus_2006]
 * **Nomer Handphone:** [081553111275]
@@ -171,8 +171,8 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] PSDM - [ Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/PSDM-Riyan_Zakaria_Zulkarnain.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Azza_Auliyaul_F.]
+* <img src="assets/PANITIA/PSDM/PSDMAzza_Auliyaul_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Azza_Auliyaul_F]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,19November_2005]
 * **Nomer Handphone:** [089523358721]
@@ -303,7 +303,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - [Andrian Maulana]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM-Andrian_Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,19_September_2005]
@@ -479,14 +479,14 @@
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang
-* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Galang]
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/VOLUNTEER/Volunteer-Galang_Surya_Prasetyo.jpeg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Galang_Surya_Prasetyo]
 * **Jabatan:** [Volunteer]
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** [tenggarong, 19 februari 2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** [PrassHere]
+* **Asal Daerah:** [kalimantan timur]
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 ---
