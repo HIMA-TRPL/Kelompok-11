@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - Muhammad Raufa Hafid W.
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Muhammad Raufa Hafid W..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid W.
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 26 September 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Alvina Nur Laila Anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvina Nur Laila Anggraini
 * **Jabatan:** Anggota
 * **TTL:** Surabaya, 31 Maret 2005
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
 * **Jabatan:** Anggota
 * **TTL:** Jakarta, 18 Januari 2007
@@ -173,7 +173,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\HUMAS\Humas - Atha Aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Muda
 * **TTL:** Madiun, 22 Februari 2005
@@ -493,7 +493,7 @@
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ### [47] Volunteer - Galang
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang
 * **Jabatan:** Volunteer
 * **TTL:** Tenggarong, 19 Februari 2007
