@@ -283,7 +283,7 @@
 ### [27] Sosma - Lutfilah Ahmad
 * <img src="assets\PANITIA\Sosma\Sosma - Lutfilah Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Staf Muda*
+* **Jabatan:** Staf Muda
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfilahh
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets\PANITIA\PDD\PDD - Daffa Hafist Atha Kuncoro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff muda*
+* **Jabatan:** Staff muda
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -464,7 +464,7 @@
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
 * <img src="assets\PANITIA\Volunteer\Voluteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Anjuni
+* **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
 * **Nomer Handphone:** 085733213487
@@ -474,7 +474,7 @@
 
 ### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets\PANITIA\Volunteer\Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Nadya
+* **Nama Panitia:** Nadya Nur Kamilia
 * **Jabatan:** volunteer
 * **TTL:** Madiun, 1 September 2006
 * **Nomer Handphone:** 085731873063
@@ -484,7 +484,7 @@
 
 ### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** volunteer
 * **TTL:** tenggarong, 19 februari 2007
 * **Nomer Handphone:** 081247074623
