@@ -463,7 +463,7 @@
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
 * <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Anjuni
+* **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 juni 2006
 * **Nomer Handphone:** 085733213487
@@ -473,7 +473,7 @@
 
 ### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Nadya
+* **Nama Panitia:** Nadya Nur Kamilia
 * **Jabatan:** volunteer
 * **TTL:** Madiun, 1 September 2006
 * **Nomer Handphone:** 085731873036
@@ -483,7 +483,7 @@
 
 ### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets/PANITIA/Volunteer/Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** volunteer
 * **TTL:** tenggarong, 19 februari 2007
 * **Nomer Handphone:** 081247074623
