@@ -388,7 +388,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] Humas - [Cristian Reynaldi]
-* <img src="assets/PANITIA/Humas/Humas-Cristian_Reynaldi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas-Cristian_Reynaldi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perkap]
 * **TTL:** [Jakarta,18Januari_2007]
