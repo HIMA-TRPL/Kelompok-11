@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [Naila Zahra Yasmine]
-*  <img src="assets/PANITIA/BPH/BPH-ila_Zahra_Yasmine.jpeg" alt="Description" style="object-fit:cover" width="300px">
+*  <img src="assets/PANITIA/BPH/BPH-Naila_Zahra_Yasmine.jpeg" alt="Description" style="object-fit:cover" width="300px">
 * **Nama Panitia:** [Naila_Zahra_Yasmine]
 * **Jabatan:** [Sekretaris_2]
 * **TTL:** [Madiun_09Oktober_2006]
@@ -141,7 +141,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM/Rindy_Cantika_Agustina_P.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-Rindy_Cantika_Agustina_P.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madium,31_Agustus_2006]
@@ -171,7 +171,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] PSDM - [ Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/PSDMAzza_Auliyaul_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-Azza_Auliyaul_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,19November_2005]
@@ -258,7 +258,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] PDD - [Raihan Firdaus Alfaritsi]
-* <img src="assets/PANITIA/PDD/PDD-Achmad_Alvin_Al_Falah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD-
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
 * **Jabatan:** [Staff]
 * **TTL:** [Ngawi,24September_2005]
