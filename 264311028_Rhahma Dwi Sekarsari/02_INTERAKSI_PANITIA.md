@@ -378,7 +378,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] Humas - [Alvina Nur Laila Anggraini]
-* <img src="assets/PANITIA/Humas/Humas-Alvina_Nur_Laila_Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas-Alvina_Nur_Laila_Anggraini.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvina_Nur_Laila_Anggraini]
 * **Jabatan:** [Anggota]
 * **TTL:** [Surabaya,31Maret_2005]
