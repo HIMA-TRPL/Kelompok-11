@@ -257,17 +257,6 @@
 * **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
 * **Fun Fact:** lagi rewatch marvel💚
 
-### 24 264311024 - NGAZIMATUL KHUSNA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL KHUSNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** NGAZIMATUL KHUSNA
-* **NIM:** 264311024
-* **TTL:** NGAWI, 12 JULI 2007
-* **Nomer Handphone:** 085737034383
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** NGAWI
-* **Asal Sekolah:** MAS  AL-ISLAM JORESAN PONOROGO
-* **Fun Fact:** bisa tidur berdiri
-
 ### 25 264311025 - RAFIQ IMAM ZAINI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025 - RAFIQ IMAM ZAINI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RAFIQ IMAM ZAINI
