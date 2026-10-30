@@ -449,7 +449,7 @@
 * **Fun Fact:** [males_error]
 
 ### [11] [264311041] - [FAUZAN WISAM FALAHUL BASHIROH]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041-FAUZAN_WISAM_FALAHUL_BASHIROH.jpeg." alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041-FAUZAN_WISAM_FALAHUL_BASHIROH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FAUZAN_WISAM_FALAHUL_BASHIROH]
 * **NIM:** [264311041]
 * **TTL:** [NGAWI_01SEPTEMBER_2007]
