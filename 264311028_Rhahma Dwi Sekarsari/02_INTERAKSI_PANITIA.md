@@ -196,7 +196,7 @@
 ### [19] Sosma - [Muhammad Rofiqul Anam]
 * <img src="assets/PANITIA/Sosma/Sosma-Muhammad_Rofiqul_Anam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** [JABATAN]
+* **Jabatan:** [Anggota]
 * **TTL:** [Magetan,05Maret_2006]
 * **Nomer Handphone:** [085850296348]
 * **Username GitHub:** @[RofiqAnam]
