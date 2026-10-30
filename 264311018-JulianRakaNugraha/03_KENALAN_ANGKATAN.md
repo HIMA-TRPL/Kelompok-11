@@ -191,17 +191,6 @@
 * **Asal Sekolah:** SMK SENOPATI SIDOARJO
 * **Fun Fact:** SUKA BUBUDUDU
 
-### [18] 264311018 - JULIAN RAKA NUGRAHA
-* <img src="assets/kelas a/juli.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** JULIAN RAKA NUGRAHA
-* **NIM:** 264311018
-* **TTL:** PONOROGO, 28 JULI 2008
-* **Nomer Handphone:** 082247095571
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** PONOROGO
-* **Asal Sekolah:** SMK PGRI 2 PONOROGO
-* **Fun Fact:** suka lagu LANA DEL REY
-
 ### [19] 264311019 - KHANSA QAIS FERNANDA
 * <img src="assets/kelas a/fernanda.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KHANSA QAIS FERNANDA
