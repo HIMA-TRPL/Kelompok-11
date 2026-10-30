@@ -314,7 +314,7 @@
 ### [30] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/PDD-Achmad_Alvin_Al_Falah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** Staff
+* **Jabatan:** Anggota
 * **TTL:** Ngawi, 24 September 2005
 * **Nomer Handphone:** 0895405971849
 * **Username GitHub:** @hannnzu
@@ -346,7 +346,7 @@
 ### [33] PDD - Dinda Rahmawati
 * <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 9 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
@@ -361,16 +361,16 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** koordinator
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_34]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Ponorogo, 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannmlnaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
-* **Jabatan:** Staff
+* **Jabatan:** Anggota
 * **TTL:** Mojokerto, 29 Juli 2006
 * **Nomer Handphone:** 081515667521
 * **Username GitHub:** @jimlydwi
@@ -465,10 +465,10 @@
 * <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anjuni
 * **Jabatan:** Volunteer
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_44]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 21 juni 2006
+* **Nomer Handphone:** 085733213487
+* **Username GitHub:** @erov1n
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamilia
@@ -482,7 +482,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Galang Surya Prasetyo
-* <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang
 * **Jabatan:** volunteer
 * **TTL:** tenggarong, 19 februari 2007
