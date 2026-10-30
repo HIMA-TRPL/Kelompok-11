@@ -484,7 +484,7 @@
 
 ### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** volunteer
 * **TTL:** tenggarong, 19 februari 2007
 * **Nomer Handphone:** 081247074623
