@@ -494,7 +494,7 @@
 
 ### [47] Volunteer - Galang Surya Prasetyo
 * <img src="assets/PANITIA/Volunteer/Volunteer - GALANG.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
