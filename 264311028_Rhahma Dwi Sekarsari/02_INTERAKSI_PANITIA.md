@@ -368,7 +368,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] Humas - [Muhammad Raufa Hafid Widodo]
-* <img src="assets/PANITIA/Humas/Humas-Muhammad_Raufa_Hafid_Widodo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas-Muhammad_Raufa_Hafid_Widodo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_Widodo]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,26September_2005]
