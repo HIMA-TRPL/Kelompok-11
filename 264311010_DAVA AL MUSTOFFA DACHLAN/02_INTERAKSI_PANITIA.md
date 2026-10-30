@@ -165,7 +165,7 @@
 ### [16] Humas - Atha Aryasatya
 * <img src="assets\PANITIA\HUMAS\Humas - Atha Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
-* **Jabatan:** Staff
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 22 Februari 2005
 * **Nomer Handphone:** 0896081887272
 * **Username GitHub:** @AthaAryasatya
