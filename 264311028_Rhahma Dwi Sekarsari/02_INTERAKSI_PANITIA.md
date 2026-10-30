@@ -390,7 +390,7 @@
 ### [37] Humas - [Cristian Reynaldi]
 * <img src="assets/PANITIA/HUMAS/Humas-Cristian_Reynaldi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
-* **Jabatan:** [Perkap]
+* **Jabatan:** [Anggota]
 * **TTL:** [Jakarta,18Januari_2007]
 * **Nomer Handphone:** [088296706471]
 * **Username GitHub:** [@crysaldi]
