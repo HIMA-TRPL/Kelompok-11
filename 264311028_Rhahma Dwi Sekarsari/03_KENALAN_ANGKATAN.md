@@ -482,7 +482,7 @@
 * **Fun Fact:** [Andakenal_saya_tausendiri]
 
 ### [14] [264311044] - [HEKSA ABDILLAH AL GHOFAR]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044-HEKSA_ABDILLAH_AL_GHOFAR.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044-HEKSA_ABDILLAH_AL_GHOFAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [HEKSA_ABDILLAH_AL_GHOFAR]
 * **NIM:** [264311044]
 * **TTL:** [BREBES_08APRIL_2008]
