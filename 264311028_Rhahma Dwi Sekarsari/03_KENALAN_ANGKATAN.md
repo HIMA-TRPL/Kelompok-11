@@ -214,7 +214,7 @@
 * **Fun Fact:** [suka_main_gitar]
 
 ### [20] [264311020] -[MAHIJA PARAMA URDHA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020-MAHIJA_PARAMA_URDHA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020-MAHIJA_PARAMA_URDHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MAHIJA_PARAMA_URDHA]
 * **NIM:** [264311020]
 * **TTL:** [PONOROGO_11JANUARI_2008]
