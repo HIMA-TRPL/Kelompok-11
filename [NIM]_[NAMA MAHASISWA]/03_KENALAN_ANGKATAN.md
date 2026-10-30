@@ -413,17 +413,6 @@
 * **Asal Sekolah:** SMAN 1 Sukomoro
 * **Fun Fact:** anak spotify
 
-### 38 264311038 - Ardhan Irsyad Maulana
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Ardhan Irsyad Maulana
-* **NIM:** 264311038
-* **TTL:** Kota Madiun, 16 Juni 2007
-* **Nomer Handphone:** 081230448224
-* **Nama Kelompok:** Svelte
-* **Asal Daerah:** Madiun
-* **Asal Sekolah:** MAN 1 KOTA MADIUN
-* **Fun Fact:** GA SUKA NGOMONG KASAR
-
 ### 39 264311039 - Dewi Wasilatul Khoiriyah
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/1B/039_LALA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dewi Wasilatul Khoiriyah
