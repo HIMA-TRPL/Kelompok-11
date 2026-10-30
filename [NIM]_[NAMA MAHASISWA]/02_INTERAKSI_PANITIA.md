@@ -112,7 +112,7 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara S.
 * **Jabatan:** staff
-* **TTL:** [TTL]
+* **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
 * **Asal Daerah:** Madiun
@@ -258,7 +258,7 @@
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_24]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
 * <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -314,15 +314,16 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - Raihan Firdaus Alfaritsi
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** Staff
+### [30] PDD - [Raihan Firdaus Alfaritsi]
+* <img src="assets/PANITIA/PDD/PDD-Achmad_Alvin_Al_Falah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
+* **Jabatan:** [Staff]
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_30]
+* **Username GitHub:** @[USERNAME_GITHUB_15]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
+
 
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -462,8 +463,8 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Anjuni
-* <img src="assets/PANITIA/Volunteer/Volunteer - Anjuni.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [44] Volunteer - Ervindy Anjuni Nurmasari
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anjuni
 * **Jabatan:** Volunteer
 * **TTL:** [TTL]
@@ -472,7 +473,7 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Nadya
+### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya
 * **Jabatan:** volunteer
@@ -482,7 +483,15 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
----
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang
+* **Jabatan:** volunteer
+* **TTL:** tenggarong, 19 februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** kalimantan timur
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
