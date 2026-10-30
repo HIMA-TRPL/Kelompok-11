@@ -614,7 +614,7 @@
 * **Fun Fact:** gk suka makan pedes
 
 ### 26. 264311056 - RESTU PRAYOGA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYOGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYOGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
 * **TTL:** PONOROGO, 19 JANUARI 2008
@@ -662,7 +662,7 @@
 ## 🏫 Kelas 1C
 
 ### 1 264311060 - ADAM CHESTA ADITIO
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060 - ADAM CHESTA ADITIO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060 - ADAM CHESTA ADITIO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADAM CHESTA ADITIO
 * **NIM:** 264311060
 * **TTL:** BLITAR, 10 SEPTEMBER 2007
@@ -761,7 +761,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 10 264311069 - GHAZA ZAIDAN AL-GHIFARI
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311069 - GHAZA ZAIDAN AL-GHIFARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311069 - GHAZA ZAIDAN AL-GHIFARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GHAZA ZAIDAN AL-GHIFARI
 * **NIM:** 264311069
 * **TTL:** MADIUN 31 OKTOBER 2007
@@ -794,7 +794,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 13 264311072 - IZZATA WIHANANGKU
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072 - IZZATA WIHANANGKU.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072 - IZZATA WIHANANGKU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** IZZATA WIHANANGKU
 * **NIM:** 264311072
 * **TTL:** PONOROGO, 06 AGUSTUS 2007
