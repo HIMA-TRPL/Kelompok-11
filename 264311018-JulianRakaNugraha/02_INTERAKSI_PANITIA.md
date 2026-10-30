@@ -362,7 +362,7 @@
 * <img src="assets\PANITIA\DKM\DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** koordinator
-* **TTL:** Ponorogo
+* **TTL:** Ponorogo, 19 september 2005
 * **Nomer Handphone:** 089524151260
 * **Username GitHub:** @driannmlnaa
 * **Asal Daerah:** Ponorogo
