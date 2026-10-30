@@ -26,17 +26,6 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN
 * **Fun Fact:** aku mau tidur
 
-### [03] 264311003 - AFAN DHANI PRASETYO
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003 - AFAN DHANI PRASETYO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** AFAN DHANI PRASETYO
-* **NIM:** 264311003
-* **TTL:** MAGETAN, 18 FEBRUARI 2008
-* **Nomer Handphone:** 081217076236
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** MAGETAN
-* **Asal Sekolah:** SMKN 2 MAGETAN
-* **Fun Fact:** Karina AESPA MBG (my bini gw)
-
 ### [04] 264311004 - AFRIN RACHMAD SETIO
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - AFRIN RACHMAD SETIO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AFRIN RACHMAD SETIO
