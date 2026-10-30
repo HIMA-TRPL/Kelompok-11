@@ -194,7 +194,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] Sosma - [Muhammad Rofiqul Anam]
-* <img src="assets/PANITIA/Sosma/Sosma-Anggi_Wahyu_Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma-Muhammad_Rofiqul_Anam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
 * **Jabatan:** [JABATAN]
 * **TTL:** [Magetan,05Maret_2006]
