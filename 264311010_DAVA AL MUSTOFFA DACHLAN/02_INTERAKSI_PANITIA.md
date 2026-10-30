@@ -198,12 +198,12 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets\PANITIA\PSDM\PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Rindy_Cantika_Agustina_P]
-* **Jabatan:** [Anggota]
-* **TTL:** [Madium,31_Agustus_2006]
-* **Nomer Handphone:** [081553111275]
-* **Username GitHub:** @[111ndy]
-* **Asal Daerah:** [Madiun]
+* **Nama Panitia:** Rindy_Cantika_Agustina_P
+* **Jabatan:** Anggota
+* **TTL:** Madium,31_Agustus_2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -228,12 +228,12 @@
 
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets\PANITIA\PSDM\PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Azza Auliyaul F.
+* **Nama Panitia:** Azza Auliyaul F
 * **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_22]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun,19November_2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
