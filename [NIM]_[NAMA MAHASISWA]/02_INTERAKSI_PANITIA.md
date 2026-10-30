@@ -209,11 +209,11 @@
 ### [20] PSDM - Rindy Cantika Agustina P.
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** PSDM
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_20]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** Anggota PSDM
+* **TTL:** Denpasar, 21 Maret 2006
+* **Nomer Handphone:** 0895808475151
+* **Username GitHub:** @danipinion
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Abdul Aziz Mushthofa
@@ -263,11 +263,11 @@
 ### [25] Sosma - Muhammad Rofiqul Anam
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_25]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** Anggota
+* **TTL:** Magetan, 05 Maret 2006
+* **Nomer Handphone:** 085850296348
+* **Username GitHub:** @RofiqAnam
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Edwin Nur Cahyo
