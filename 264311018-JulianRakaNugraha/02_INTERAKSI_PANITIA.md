@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets\PANITIA\BPH\BPH - Dhea Novik.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\BPH\BPH-Dhea_Novika.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
@@ -198,12 +198,12 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets\PANITIA\PSDM\PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** PSDM
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_19]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** Rindy_Cantika_Agustina_P
+* **Jabatan:** Anggota
+* **TTL:** Madium,31_Agustus_2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -228,12 +228,12 @@
 
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets\PANITIA\PSDM\PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Azza Auliyaul F.
+* **Nama Panitia:** Azza Auliyaul F
 * **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_22]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun,19November_2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -283,7 +283,7 @@
 ### [27] Sosma - Lutfilah Ahmad
 * <img src="assets\PANITIA\Sosma\Sosma - Lutfilah Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Staf Muda*
+* **Jabatan:** Staf Muda
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfilahh
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets\PANITIA\PDD\PDD - Daffa Hafist Atha Kuncoro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff muda*
+* **Jabatan:** Staff muda
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -464,7 +464,7 @@
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
 * <img src="assets\PANITIA\Volunteer\Voluteer - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Anjuni
+* **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
 * **Nomer Handphone:** 085733213487
@@ -474,7 +474,7 @@
 
 ### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets\PANITIA\Volunteer\Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Nadya
+* **Nama Panitia:** Nadya Nur Kamilia
 * **Jabatan:** volunteer
 * **TTL:** Madiun, 1 September 2006
 * **Nomer Handphone:** 085731873063
@@ -484,7 +484,7 @@
 
 ### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** volunteer
 * **TTL:** tenggarong, 19 februari 2007
 * **Nomer Handphone:** 081247074623
