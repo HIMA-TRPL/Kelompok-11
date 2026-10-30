@@ -198,12 +198,12 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets\PANITIA\PSDM\PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** PSDM
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_19]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** [Rindy_Cantika_Agustina_P]
+* **Jabatan:** [Anggota]
+* **TTL:** [Madium,31_Agustus_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
