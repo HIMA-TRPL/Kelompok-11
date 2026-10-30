@@ -37,17 +37,6 @@
 * **Asal Sekolah:** SMKN 2 MAGETAN
 * **Fun Fact:** KARINA AESPA MBG (MY BINI GW)
 
-### 04. 264311004 - AFRIN RACHMAD SETIO
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - AFRIN RACHMAD SETIO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** AFRIN RACHMAD SETIO
-* **NIM:** 264311004
-* **TTL:** MAGETAN, 30 AGUSTUS 2008
-* **Nomer Handphone:** 085735490376
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** MAGETAN
-* **Asal Sekolah:** SMKN TAKERAN
-* **Fun Fact:** MASA MUDA WAJIB HEALING
-
 ### 05. 264311005 - ANIS ALI SOHIB
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS ALI SOHIB.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANIS ALI SOHIB
