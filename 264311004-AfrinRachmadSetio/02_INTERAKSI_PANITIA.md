@@ -492,9 +492,9 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
-### [47] Volunteer - Galang
+### [47] Volunteer - Galang Surya Prasetyo
 * <img src="assets\PANITIA\Volunteer\Voluteer - Galang Surya Prasetyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** Tenggarong, 19 Februari 2007
 * **Nomer Handphone:** 081247074623
