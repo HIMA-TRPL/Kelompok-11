@@ -303,18 +303,7 @@
 * **Username GitHub:** @Ardhana-Hidayat
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
-
-### [29] PDD - Raditya Alfareeza Purnama
-* <img src="assets\PANITIA\PDD\PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Raditya Alfareeza Purnama
-* **Jabatan:** Staff
-* **TTL:** Madiun, 4 maret 2006
-* **Nomer Handphone:** 085784030358
-* **Username GitHub:** @radityaalfareza
-* **Asal Daerah:** Madiun
-<!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
-
-### [30] PDD - Raihan Firdaus Alfaritsi
+### [29] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** Staff
@@ -322,7 +311,18 @@
 * **Nomer Handphone:** 0895405971849
 * **Username GitHub:** @hannnzu
 * **Asal Daerah:** Ngawi
+<!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
+
+### [30] PDD - Raditya Alfareeza Purnama
+* <img src="assets\PANITIA\PDD\PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Raditya Alfareeza Purnama
+* **Jabatan:** Staff
+* **TTL:** Madiun, 4 maret 2006
+* **Nomer Handphone:** 085784030358
+* **Username GitHub:** @radityaalfareza
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
+
 
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets\PANITIA\PDD\PDD - Achmad Alvin Al Falah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
