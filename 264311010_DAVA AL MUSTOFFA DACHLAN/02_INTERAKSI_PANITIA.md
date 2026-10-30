@@ -71,7 +71,7 @@
 ### [07] Dagri - Alvian Dwiky Putra S
 * <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra S
-* **Jabatan:** koordinator
+* **Jabatan:** Koor Dagri
 * **TTL:** Ponorogo, 2 Desember 2005
 * **Nomer Handphone:** 082292537622
 * **Username GitHub:** @alvn22
@@ -91,7 +91,7 @@
 ### [09] Dagri - Firdaus Ilham F.
 * <img src="assets\PANITIA\Dagri\Dagri - Firdaus Ilham F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
-* **Jabatan:** Anggota
+* **Jabatan:** staff
 * **TTL:** Madiun, 01 Januari 2007
 * **Nomer Handphone:** 081977285545
 * **Username GitHub:** @fadlukkr
@@ -112,7 +112,7 @@
 * <img src="assets\PANITIA\Dagri\Dagri - Nadia Tifara S..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara S.
 * **Jabatan:** staff
-* **TTL:** [TTL]
+* **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
 * **Asal Daerah:** Madiun
@@ -180,7 +180,7 @@
 * <img src="assets\PANITIA\PSDM\PSDM - Riyan Zakaria Zulkarnain.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koor PSDM
-* **TTL:** Ponorogo, 7 Sept 2005
+* **TTL:** Ponorogo, 7 September 2005
 * **Nomer Handphone:** 085172421215
 * **Username GitHub:** @Riyanzakaria
 * **Asal Daerah:** Ponorogo
@@ -308,20 +308,20 @@
 * <img src="assets\PANITIA\PDD\PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareeza Purnama
 * **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_29]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 4 maret 2006
+* **Nomer Handphone:** 085784030358
+* **Username GitHub:** @radityaalfareza
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_30]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Ngawi, 25 September 2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
@@ -466,20 +466,20 @@
 * <img src="assets/PANITIA/Volunteer/Volunteer - Anjuni.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anjuni
 * **Jabatan:** Volunteer
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_44]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 21 Juni 2006
+* **Nomer Handphone:** 085733213487
+* **Username GitHub:** @erov1n
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets\PANITIA\Volunteer\Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya
 * **Jabatan:** volunteer
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_45]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** Madiun, 1 September 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ---
