@@ -358,7 +358,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [34] Humas - [Adam Noverian]
-* <img src="assets/PANITIA/Humas/Humas-Adam_Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas-Adam_Noverian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
 * **Jabatan:** [Ketua_Humas]
 * **TTL:** [Surabaya,08November_2005]
