@@ -250,16 +250,6 @@
 * **Asal Daerah:** Tulungagung
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
-### [24] Sosma - Muhammad Rofiqul Anam
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_24]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
-
 ### [25] Sosma - Edwin Nur Cahyo
 * <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
@@ -313,16 +303,6 @@
 * **Username GitHub:** @[USERNAME_GITHUB_29]
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
-
-### [30] PDD - Raihan Firdaus Alfaritsi
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** Staff
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_30]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -462,8 +442,8 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Anjuni
-* <img src="assets/PANITIA/Volunteer/Volunteer - Anjuni.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [44] Volunteer - Ervindy Anjuni Nurmasari
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anjuni
 * **Jabatan:** Volunteer
 * **TTL:** [TTL]
@@ -472,7 +452,7 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Nadya
+### [45] Volunteer - Nadya Nur Kamilia
 * <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamilia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya
 * **Jabatan:** volunteer
