@@ -493,7 +493,7 @@
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ### [47] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - GALANG.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang
 * **Jabatan:** Volunteer
 * **TTL:** [TTL]
