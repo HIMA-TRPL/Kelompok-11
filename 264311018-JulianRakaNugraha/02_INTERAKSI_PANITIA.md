@@ -273,7 +273,7 @@
 ### [26] Sosma - Muhsyam Fahriel S.
 * <img src="assets\PANITIA\Sosma\Sosma - Muhsyam Fahriel.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
-* **Jabatan:** Anggota Sosma
+* **Jabatan:** Anggota
 * **TTL:** Ngawi, 25 September 2005
 * **Nomer Handphone:** 085736564592
 * **Username GitHub:** @FahRiel25
