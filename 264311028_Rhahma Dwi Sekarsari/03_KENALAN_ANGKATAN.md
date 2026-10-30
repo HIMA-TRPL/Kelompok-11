@@ -537,7 +537,7 @@
 * **Fun Fact:** [awasya_ITS_tahun_depan]
 
 ### [19] [264311049] - [MUHAMMAD MAHLAYAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049-MUHAMMAD_MAHLAYAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049-Muhammad_Mahlayan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_MAHLAYAN]
 * **NIM:** [264311049]
 * **TTL:** [MAGETAN_1JANUARI_2007]
