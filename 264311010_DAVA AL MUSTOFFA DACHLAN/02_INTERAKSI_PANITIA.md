@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets\PANITIA\PSDM\PSDM - Abdul Aziz Mushthofa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda
 * **TTL:** Tulungagung, 13 April 2006
