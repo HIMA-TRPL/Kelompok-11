@@ -79,7 +79,7 @@
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
 * <img src="assets/PANITIA/Dagri/Dagri-Dzakwan_Daris_Fakhruddin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dzakwan_Daris_Fakhruddin]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Madiun_13April_2006]
 * **Nomer Handphone:** [085163200636]
 * **Username GitHub:** @[dzadafa]
@@ -99,7 +99,7 @@
 ### [10] Dagri - [Bangkit Cahya Linuwih]
 * <img src="assets/PANITIA/Dagri/Dagri-Bangkit_Cahya_Linuwih.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Bangkit_Cahya_Linuwih]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Pacitan_02April_2006]
 * **Nomer Handphone:** [081230227986]
 * **Username GitHub:** @[Bangkitcahyalinuwih]
@@ -109,7 +109,7 @@
 ### [11] Dagri - [Nadia Tifara S]
 * <img src="assets/PANITIA/Dagri/Dagri-Nadia_Tifara_S.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nadia_Tifara_S]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Madiun,25Desember_2005]
 * **Nomer Handphone:** [081547416320]
 * **Username GitHub:** @[Nadia271205]
@@ -133,7 +133,7 @@
 ### [13] PSDM - [Muhammad Dani T.]
 * <img src="assets/PANITIA/PSDM/PSDM-Muhammad_Dani_T.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Dani_T.]
-* **Jabatan:** [JABATAN]
+* **Jabatan:** [Anggota]
 * **TTL:** [Denpasar,21Maret_2006]
 * **Nomer Handphone:** [0895808475151]
 * **Username GitHub:** @[Danipinion]
@@ -153,7 +153,7 @@
 ### [15] PSDM - [Abdul Aziz Mushthofa]
 * <img src="assets/PANITIA/PSDM/PSDM-Abdul_Aziz_Mushthofa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Abdul_Aziz_Mushthofa]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Tulungagung_13April_2006]
 * **Nomer Handphone:** [087823352468]
 * **Username GitHub:** @[Artemisee77]
@@ -173,7 +173,7 @@
 ### [17] PSDM - [ Azza Auliyaul F.]
 * <img src="assets/PANITIA/PSDM/PSDM-Azza_Auliyaul_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Madiun,19November_2005]
 * **Nomer Handphone:** [089523358721]
 * **Username GitHub:** @[azzaauliyaul]
@@ -226,7 +226,7 @@
 ### [22] Sosma - [Lutfilah Ahmad]
 *<img src="assets/PANITIA/Sosma/Sosma-Lutfilah_Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Lutfilah_Ahmad]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Magetan,30Januari_2007]
 * **Nomer Handphone:** [085895773246]
 * **Username GitHub:** @[lutfillahh]
@@ -250,7 +250,7 @@
 ### [24] PDD - [Raditya Alfareeza Purnama]
 * <img src="assets/PANITIA/PDD/PDD-Raditya_Alfareeza_Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya_Alfareeza_Purnama]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_14]
@@ -260,7 +260,7 @@
 ### [25] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/PDD-
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Ngawi,24September_2005]
 * **Nomer Handphone:** [0895405971849]
 * **Username GitHub:** @[hannnzu]
@@ -270,7 +270,7 @@
 ### [26] PDD - [Achmad Alvin Al Falah]
 * <img src="assets/PANITIA/PDD/PDD-Achmad_Alvin_Al_Falah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Achmad_Alvin_Al_Falah]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Ponorogo,18Januari_2006]
 * **Nomer Handphone:** [081329827262]
 * **Username GitHub:** @[AchmadAlvin]
@@ -280,7 +280,7 @@
 ### [27] PDD - [Daffa Hafist Atha Kuncoro]
 * <img src="assets/PANITIA/PDD/PDD-Daffa_Hafist_Atha_Kuncoro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Daffa_Hafist_Atha_Kuncoro]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Surabaya,16Januari_2007]
 * **Nomer Handphone:** [81329827262]
 * **Username GitHub:** @[Hafist-ak08]
@@ -290,7 +290,7 @@
 ### [28] PDD - [Dinda Rahmawati]
 * <img src="assets/PANITIA/PDD/PDD-Dinda_Rahmawati.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dinda_Rahmawati]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Madiun,9September_2006]
 * **Nomer Handphone:** [085143442263]
 * **Username GitHub:** @[dindarahmawatii]
@@ -315,7 +315,7 @@
 ### [30] DKM - [Jimli Dwi Assiddiqi]
 *  <img src="assets/PANITIA/DKM/DKM-Jimli_Dwi_Assiddiqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Jimli_Dwi_Assiddiqi]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Mojokerto,29_Juli_2006]
 * **Nomer Handphone:** [81515667521]
 * **Username GitHub:** @[jimlydwi]
@@ -400,7 +400,7 @@
 ### [38] Humas - [Atha Aryasatya]
 * <img src="assets/PANITIA/HUMAS/Humas-Atha_Aryasatya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
-* **Jabatan:** [Staff]
+* **Jabatan:** [Anggota]
 * **TTL:** [Madiun,22Februari_2005]
 * **Nomer Handphone:** [089608188727]
 * **Username GitHub:** [@athaaryasatya]
